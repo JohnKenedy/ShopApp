@@ -13,5 +13,6 @@
     <color name="dark_gray">#1D1B1B</color>
     <color name="yellow">#FFE600</color>
     <color name="t_dark_gray">#D81D1B1B</color>
+    <color name="t_white">#BCFFFFFF</color>
 
 </resources>
