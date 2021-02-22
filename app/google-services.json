@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828023195205",
+    "project_id": "shopapp-f89e0",
+    "storage_bucket": "shopapp-f89e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828023195205:android:56c0a3c44c1d7bff0ac52c",
+        "android_client_info": {
+          "package_name": "com.canytech.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828023195205-9hq6465crdbrvjo3jj0h7hakntp4l15j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.canytech.shopapp",
+            "certificate_hash": "3219cc2999c6de4c52c794a78d3512f824961efd"
+          }
+        },
+        {
+          "client_id": "828023195205-ibfbpmm5dbv8l9h836p49jl8akf5a1p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-Jd6N6tLJoaXnp2GN_-LO2BSQhU_GIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828023195205-ibfbpmm5dbv8l9h836p49jl8akf5a1p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

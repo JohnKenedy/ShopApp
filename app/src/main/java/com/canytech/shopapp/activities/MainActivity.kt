@@ -1,7 +1,8 @@
-package com.canytech.shopapp
+package com.canytech.shopapp.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.canytech.shopapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
